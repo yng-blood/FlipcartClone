@@ -1,0 +1,21 @@
+@media (min-width: 200px) {
+    .page-2 {
+      padding-top: 20%;
+    }
+  }
+@media (max-width:1094px){
+    .topImage{
+        padding-top: 20% ;
+    }
+}
+@media (max-width:510px){
+  .topImage{
+      padding-top: 40% ;
+  }
+}
+@media (min-width:1050px){
+  .detail-card{
+      padding-top: 80% ;
+  }
+}
+
